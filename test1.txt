@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 182F-F623
+
+ Directory of C:\Users\mithr\OneDrive\Desktop\My project
+
+04/28/2021  11:41 PM    <DIR>          .
+04/28/2021  11:41 PM    <DIR>          ..
+04/28/2021  11:41 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  279,574,458,368 bytes free
